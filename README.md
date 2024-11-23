@@ -4,7 +4,12 @@ LAB FILE EXPERIMENT NIT Delhi Data Mining Warehousing CSBM505
 <br> LAB 2 : Univariate, Bivariate, Multivariate analysis using histogram, Q-Q Plot, Bar graph, Scatter Plot, and Heat maps.
 <br> LAB 3 : Univariate, Bivariate, Multivariate analysis using histogram, Q-Q Plot, Bar graph, Scatter Plot, and Heat maps.
 <br> LAB 4 : Univariate, Bivariate, Multivariate analysis using histogram, Q-Q Plot, Bar graph, Scatter Plot, and Heat maps.
-<br> LAB 5 : Univariate, Bivariate, Multivariate analysis using histogram, Q-Q Plot, Bar graph, Scatter Plot, and Heat maps.
+<br> LAB 5 : Demonstrate the following Similarity and Dissimilarity Measures using python
+a) Euclidean Distance
+b) Manhattan Distance
+c) Minkowski Distance
+d) Cosine Similarity
+e) Jaccard Similarity
 <br> LAB 6 : Univariate, Bivariate, Multivariate analysis using histogram, Q-Q Plot, Bar graph, Scatter Plot, and Heat maps.
 <br> LAB 7 : Univariate, Bivariate, Multivariate analysis using histogram, Q-Q Plot, Bar graph, Scatter Plot, and Heat maps.
 <br> LAB 8 : Univariate, Bivariate, Multivariate analysis using histogram, Q-Q Plot, Bar graph, Scatter Plot, and Heat maps.
