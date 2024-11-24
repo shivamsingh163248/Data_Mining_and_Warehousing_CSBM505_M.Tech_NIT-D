@@ -11,7 +11,7 @@ c) Minkowski Distance
 d) Cosine Similarity
 e) Jaccard Similarity
 <br> LAB 6 : To calculate Covariance and perform a Chi-square test using both random and provided data.
-<br> LAB 7 : Univariate, Bivariate, Multivariate analysis using histogram, Q-Q Plot, Bar graph, Scatter Plot, and Heat maps.
+<br> LAB 7 : To perform Principal component analysis on given dataset and construct a graph based on it
 <br> LAB 8 : Univariate, Bivariate, Multivariate analysis using histogram, Q-Q Plot, Bar graph, Scatter Plot, and Heat maps.
 <br> LAB 9 : Univariate, Bivariate, Multivariate analysis using histogram, Q-Q Plot, Bar graph, Scatter Plot, and Heat maps.
 <br> LAB 10 : Univariate, Bivariate, Multivariate analysis using histogram, Q-Q Plot, Bar graph, Scatter Plot, and Heat maps.
